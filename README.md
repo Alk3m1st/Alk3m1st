@@ -47,6 +47,9 @@
 
 - 📫 How to reach me: [#️⃣ twitter](https://twitter.com/alkem1st)
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alkem1st&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alkem1st&langs_count=5&theme=tokyonight)]()
+
 <!--
 **Alk3m1st/Alk3m1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
