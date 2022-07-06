@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [setsy.io](https://setsy.io)
-![image](https://user-images.githubusercontent.com/4121457/177539744-298072bf-7487-4b84-ae70-30e7137fe432.png)
+![Setsy io](https://user-images.githubusercontent.com/4121457/177541282-28e7efeb-1622-408c-aa69-a0ec4495a1a8.png)
 
 - 🌱 I’m currently learning AWS Developer things (hopefully start obtaining some certifications soon)
 
