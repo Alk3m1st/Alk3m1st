@@ -47,6 +47,11 @@
 
 - 📫 How to reach me: [#️⃣ twitter](https://twitter.com/alkem1st)
 
+![Overview](https://github.com/Alk3m1st/github-stats/blob/master/generated/overview.svg)
+![Languages](https://github.com/Alk3m1st/github-stats/blob/master/generated/languages.svg)
+
+Generated using this repo - [https://github.com/joiellantero/github-stats](https://github.com/joiellantero/github-stats)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alkem1st&count_private=true&theme=synthwave&showicons=true&include_all_commits=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alkem1st&langs_count=5&theme=synthwave)]()
 
@@ -62,4 +67,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 https://github.com/anuraghazra/github-readme-stats
+
+
+
 -->
