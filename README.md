@@ -43,7 +43,7 @@
  
 ![Setsy io](https://user-images.githubusercontent.com/4121457/177541282-28e7efeb-1622-408c-aa69-a0ec4495a1a8.png)
 
-- 🌱 I’m currently learning AWS Developer things (hopefully start obtaining some certifications soon)
+- 🌱 I’m currently studying for the AWS Developer Associate certification
 
 - 📫 How to reach me: [#️⃣ twitter](https://twitter.com/alkem1st)
 
