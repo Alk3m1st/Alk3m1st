@@ -43,9 +43,9 @@
  
 ![Setsy io](https://user-images.githubusercontent.com/4121457/177541282-28e7efeb-1622-408c-aa69-a0ec4495a1a8.png)
 
-- 🌱 I’m currently studying for the AWS Developer Associate certification
-
-- 📫 How to reach me: [#️⃣ twitter](https://twitter.com/alkem1st)
+- 🧑‍💻 AWS AI Practitioner certification - Early Adopter (2025)
+- 🧑‍💻 AWS Developer Associate certification (2022)
+- 🧑‍💻 AWS Cloud Practitioner certification (2022)
 
 ![Overview](https://github.com/Alk3m1st/github-stats/blob/master/generated/overview.svg)
 ![Languages](https://github.com/Alk3m1st/github-stats/blob/master/generated/languages.svg)
